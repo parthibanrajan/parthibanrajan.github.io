@@ -1,5 +1,6 @@
 ---
 permalink: /publications/
+layout: single
 ---
 
 #### PUBLICATIONS
@@ -22,14 +23,14 @@ permalink: /publications/
 17. R. Harikumar, A. Shanmugam, and P. Rajan, "VLSI Synthesis of Heterogeneous and SIRM Fuzzy System for Classification of Diabetic Epilepsy Risk Levels", in 2008 Cairo International Biomedical Engineering Conference, 2008, pp. 1–6.
 18. P. Rajan, J. Wright, A. Rohit, T. Cai, S. Kaya, "Capacitive-physical sensors integrated with microfluidics for flow-rate and pH detection" (Under Preparation).
 
-#### PEER REVIEWS 
+#### PEER REVIEWS
 1. Y. Zeng, R. Sanders, R. Wiegerink, and J. Lötters, "A Flow-Through Microfluidic Relative Permittivity Sensor", Micromachines, vol. 11, no. 3, p. 325, Mar. 2020.
 2. Q. Xu, J. Lo, and S.-W. Lee, "Directly Printed Hollow Connectors for Microfluidic Interconnection with UV-Assisted Coaxial 3D Printing", Applied Sciences, vol. 10, no. 10, p. 3384, May 2020.
 3. N. B. Arnfinnsdottir, C. A. Chapman, R. C. Bailey, A. Aksnes, and B. T. Stokke, "Impact of Silanization Parameters and Antibody Immobilization Strategy on Binding Capacity of Photonic Ring Resonators", Sensors, vol. 20, no. 11, p. 3163, Jun. 2020.
 4. M. Juraeva and D. J. Kang, "Mixing Performance of a Cross-Channel Split-and-Recombine Micro-Mixer Combined with Mixing Cell", Micromachines, vol. 11, no. 7, p. 685, Jul. 2020.
 5. L. Liu, D. Hu, and R. H. W. Lam, "Microfluidic Viscometer Using a Suspending Micromembrane for Measurement of Biosamples", Micromachines, vol. 11, no. 10, p. 934, Oct. 2020.
 
-#### CONFERENCES & WORKSHOPS 
+#### CONFERENCES & WORKSHOPS
 1. "Multiscale Vascularized Cardiac Patches via Combined 3D Bioprinting and Microphysiological Conditioning", TERMIS 2021, Maastricht, Netherlands, May 31 – June 4, 2021.
 2. "A Microfluidic Device with Multiple Vertical Channels Separated by Porous PDMS Membranes to Model Tissues Comprising of Three or More Layers of Cells", BMES, Philadelphia, PA, October 16-19, 2019.
 3. "Chemico-Capacitive Sensing via Dielectric Loading", MWCAS 2019, Dallas, TX, August 4-7, 2019.
