@@ -1,12 +1,12 @@
 # main links
 main:
+  - title: "Work Experience"
+    url: /work/
+  - title: "Skills"
+    url: /skills/
   - title: "Publications"
     url: /publications/
   - title: "Academic Projects"
     url: /AcademicProjects/
   - title: "Affiliations"
     url: /affiliations/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
