@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Publications"
-     url: /publications/
+    url: /publications/
   - title: "Academic Projects"
     url: /AcademicProjects/
   # - title: "Sample Posts"
